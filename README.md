@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I’m Hani
 
-<!--
-**hani-sabaie/hani-sabaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Genetics](https://img.shields.io/badge/Human%20Genetics-4B0082?style=flat)
+![Computational Genomics](https://img.shields.io/badge/Computational%20Genomics-1f6feb?style=flat)
+![Integrative Genomics](https://img.shields.io/badge/Integrative%20Genomics-2da44e?style=flat)
+![Single Cell](https://img.shields.io/badge/Single--Cell%20Omics-orange?style=flat)
+![Causal Genomics](https://img.shields.io/badge/Causal%20Genomics-MR%20%7C%20SMR-purple?style=flat)
+![CNV](https://img.shields.io/badge/CNV%20%26%20Structural%20Variation-darkred?style=flat)
+![R](https://img.shields.io/badge/R-Experienced-276DC3?style=flat&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Computational%20Workflows-black?style=flat&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=flat&logo=python&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-lightgrey?style=flat)
+***
+🧬 **Human Genetics | Computational Genomics | Integrative Genomics**  
+🎓 M.Sc. in Human Genetics
+***
+🔭 **I’m currently working on** integrative analyses of **single-nucleus RNA-seq and ATAC-seq** data to investigate cell-type-specific transcriptional and epigenetic regulation in complex human diseases, alongside **causal genomics approaches** (Mendelian randomization and SMR/HEIDI) and **copy number variation (CNV) / structural variant analyses** to capture multi-layered genetic contributions to disease susceptibility.
 
-Here are some ideas to get you started:
+🤝 **I’m interested in collaboration on** **single-cell multi-omics**, gene regulatory network analysis, **CNV and structural variant interpretation**, and **causal inference in human genetics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m currently learning** **Python programming**, **machine learning concepts**, and advanced computational approaches for **integrative analysis of genomic and single-cell data**.
+
+💬 **Ask me about** **single-cell RNA/ATAC-seq data analysis**, **gene network modeling**, **causal genomics**, **CNV/structural variant analysis**, and integrative genomic workflows.
+
+🎯 **I am actively seeking a PhD position** in **genomics, bioinformatics, or computational biology**, with a focus on **single-cell biology, statistical genetics, structural variation, and disease mechanisms**.
