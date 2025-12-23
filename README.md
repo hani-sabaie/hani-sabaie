@@ -18,8 +18,8 @@
 🧬 **Human Genetics | Computational Genomics | Integrative Genomics**  
 🎓 M.Sc. in Human Genetics
 ***
-
-🔭 **I’m currently working on** integrative analyses of **single-nucleus multi-omics** data to investigate cell-type-specific regulation in complex human diseases, alongside **causal genomics approaches** (Mendelian randomization and SMR/HEIDI) and **copy number variation (CNV) / structural variant analyses** to capture multi-layered genetic contributions to disease susceptibility.
+  
+🔭 **I’m currently working on** integrative analyses of **single-nucleus multi-omics** data to investigate cell-type-specific regulation in complex human diseases. In parallel, I apply **causal genomics approaches** (Mendelian randomization and SMR/HEIDI) and **copy number variation (CNV) / structural variant analyses** to capture multi-layered genetic contributions to disease susceptibility.
 
 🤝 **I’m interested in collaboration on** **single-cell multi-omics**, **gene regulatory network analysis**, **CNV and structural variant interpretation**, and **causal inference in human genetics**.
 
