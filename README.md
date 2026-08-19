@@ -2,20 +2,19 @@
 
 ![Genetics](https://img.shields.io/badge/Human%20Genetics-4B0082?style=flat)
 ![Computational Genomics](https://img.shields.io/badge/Computational%20Genomics-1f6feb?style=flat)
-![Integrative Genomics](https://img.shields.io/badge/Integrative%20Genomics-2da44e?style=flat)
+![Structural Variation](https://img.shields.io/badge/Structural%20Variation-2da44e?style=flat)
+![Functional Genomics](https://img.shields.io/badge/Functional%20Genomics-MR%20%7C%20SMR-purple?style=flat)
+![Transcriptomics](https://img.shields.io/badge/Clinical%20Transcriptomics-darkred?style=flat)
 ![Single Cell](https://img.shields.io/badge/Single--Cell%20Omics-orange?style=flat)
-![Causal Genomics](https://img.shields.io/badge/Causal%20Genomics-MR%20%7C%20SMR-purple?style=flat)
-![CNV](https://img.shields.io/badge/CNV%20%26%20Structural%20Variation-darkred?style=flat)
 
 ![R](https://img.shields.io/badge/R-Experienced-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-yellow?style=flat&logo=python&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-Computational%20Workflows-black?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Basic-F05032?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=flat&logo=markdown)
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=flat&logo=python&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-lightgrey?style=flat)
 
 ***
-🧬 **Human Genetics | Computational Genomics | Integrative Genomics**  
+🧬 **Computational Genomics | Structural Variation | Functional Genomics**  
 🎓 M.Sc. in Human Genetics
 ***
   
