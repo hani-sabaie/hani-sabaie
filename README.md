@@ -15,6 +15,7 @@
 
 ***
 🎓 **M.Sc. in Human Genetics**  
+
 🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, or Computational Biology**
 ***
 
