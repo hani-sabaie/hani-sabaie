@@ -14,11 +14,11 @@
 ![Markdown](https://img.shields.io/badge/R%20Markdown-Proficient-000000?style=flat&logo=markdown)
 
 ***
-🎓 **M.Sc. in Human Genetics** · 🧬 Computational Genomics  
+🎓 **M.Sc. in Human Genetics**  
 🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, or Computational Biology**
 ***
 
-🔬 My research interests center on **variant-to-function studies**, **structural variation**, **clinical transcriptomics**, and computational approaches for understanding **rare and complex diseases**.
+🔬 My research interests center on **variant-to-function studies**, **structural variation**, **clinical transcriptomics**, and computational approaches for understanding **rare and complex diseases**
 
 🤝 Open to **research collaborations** in computational genomics and related areas
 
