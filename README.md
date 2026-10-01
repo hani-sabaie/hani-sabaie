@@ -22,4 +22,4 @@
 
 🤝 Open to **research collaborations** in computational genomics and related areas
 
-🌱 Currently expanding my skills in **scientific computing, bioinformatics method development, and machine learning**
+🌱 Currently expanding my skills in **scientific computing and machine learning**
