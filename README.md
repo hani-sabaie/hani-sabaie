@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hani
+## 👋 Hi, I’m Hani, a lifelong learner by choice
 
 ![Genetics](https://img.shields.io/badge/Human%20Genetics-4B0082?style=flat)
 ![Computational Genomics](https://img.shields.io/badge/Computational%20Genomics-1f6feb?style=flat)
