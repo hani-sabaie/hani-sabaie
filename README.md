@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hani, a lifelong learner by choice
+## 👋 Hi, I’m Hani, a Human Genetics researcher
 
 ![Genetics](https://img.shields.io/badge/Human%20Genetics-4B0082?style=flat)
 ![Computational Genomics](https://img.shields.io/badge/Computational%20Genomics-1f6feb?style=flat)
@@ -16,11 +16,11 @@
 ***
 🎓 **M.Sc. in Human Genetics**  
 
-🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, or Computational Biology**
+🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, Computational Biology, or related fields**
 ***
 
-🔬 My research interests center on **variant-to-function studies**, **structural variation**, **clinical transcriptomics**, and computational approaches for understanding **rare and complex diseases**
+🔬 My research interests center on **diagnostic genetics and genomics**, **structural variation**, **variant-to-function studies**, and computational approaches for understanding **rare and complex diseases**
 
-🤝 Open to **research collaborations** in computational genomics and related areas
+🤝 Open to **research collaborations** in diagnostic genomics, structural variation, computational genomics, functional genomics, and related areas
 
 🌱 Currently expanding my skills in **scientific computing and machine learning**
