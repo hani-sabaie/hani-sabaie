@@ -4,7 +4,7 @@
 ![Computational Genomics](https://img.shields.io/badge/Computational%20Genomics-1f6feb?style=flat)
 ![Structural Variation](https://img.shields.io/badge/Structural%20Variation-2da44e?style=flat)
 ![Functional Genomics](https://img.shields.io/badge/Functional%20Genomics-purple?style=flat)
-![Diagnostic Genomics](https://img.shields.io/badge/diagnostic%20genomics-darkred?style=flat)
+![Diagnostic Genomics](https://img.shields.io/badge/Diagnostic%20Genomics-darkred?style=flat)
 ![Single Cell](https://img.shields.io/badge/Single--Cell%20Multiomics-orange?style=flat)
 
 ![R](https://img.shields.io/badge/R-Proficient-276DC3?style=flat&logo=r&logoColor=white)
