@@ -16,7 +16,7 @@
 ***
 🎓 **M.Sc. in Human Genetics**  
 
-🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, Computational Biology**, or related fields
+🎯 **Currently seeking a PhD position in Genomics, Bioinformatics, Computational Biology, or related fields**
 ***
 
 🔬 My research interests center on **diagnostic genetics and genomics**, **structural variation**, **variant-to-function studies**, and computational approaches for understanding **rare and complex diseases**
